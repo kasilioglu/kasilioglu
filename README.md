@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koray Asilioglu
 - 👀 I’m interested in dotnet core, react, messaging, architectural styles
-- 🌱 I’m currently learning microservices, kubernetes
+- 🌱 I’m currently learning microservices, azure, react
 - 💞️ I’m looking for new opportunities
 - 📫 How to reach me : koray_asili@yahoo.com
 
