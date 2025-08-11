@@ -2,7 +2,7 @@
 - 👀 I’m interested in dotnet core, react, messaging, architectural styles
 - 🌱 I’m currently learning aws, aspire, react
 - 💞️ I’m looking for new opportunities
-- 📫 How to reach me : koray.asili@gmail.com
+- 📫 How to reach me : koray.asilioglu@gmail.com
 
 <!---
 kasilioglu/kasilioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
